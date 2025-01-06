@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">MovieQuotes</string>
+    <string name="movie1">I mean, funny like I\'m a clown? I amuse you? - Goodfellas</string>
+    <string name="movie2">They call it a Royale with cheese. - Pulp Fiction</string>
+    <string name="movie3">It\'s alive! It\'s alive! - Frankenstein</string>
+    <string name="movie4">I\'m the king of the world! - Titanic</string>
+    <string name="movie5">The greatest trick the devil ever pulled was
+convincing the world he didn\'t exist. - The Usual Suspects</string>
+    <string name="movie6">Say hello to my little friend! - Scarface</string>
+    <string name="movie7">Bond. James Bond. - Dr. No</string>
+    <string name="movie8">Why so serious? - The Dark Knight</string>
+    <string name="movie9">I am your father. - Star Wars Episode V: The Empire
+Strikes Back</string>
+    <string name="movie10">You\'re gonna need a bigger boat. - JAWS</string>
 </resources>
